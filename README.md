@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is AMU and I mostly make software tools related to music and sounds! I strongly believe in making free-to-use and open-source software. I also make music, you can find them on my [Spotify](http://spoti.fi/2kNt827) or my [Bandcamp](https://amuexpress.bandcamp.com).
+My name is AMU and I mostly make software tools related to music and sounds! Currently, I'm mainly working on an open-source DAW (the repo is [here](https://github.com/funktional-stdo/daw)!) I strongly believe in making free-to-use and open-source software. I also make music, you can find them on my [Spotify](http://spoti.fi/2kNt827) or my [Bandcamp](https://amuexpress.bandcamp.com).
 
-I'm currently working on a couple of [currently] secret projects that I can't wait to share with the world as soon as possible!! But in the mean time, feel free to ask me anything or chat with me on my [Twitter](https://twitter.com/iamufr)! You can also find me on [Instagram](https://instagram.com/amuexpress).
-
+Feel free to ask me anything or chat with me on my [Twitter](https://twitter.com/iamufr)! You can also find me on [Instagram](https://instagram.com/amuexpress).
 
 ⚡ Random fact about me: I don't like using capital letters in commit messages. I don't know why.
 
